@@ -1,0 +1,17 @@
+InfoKey: Creator
+InfoValue: gscan2pdf v0.9.23
+InfoKey: Title
+InfoValue: OpenStreetMap
+InfoKey: Author
+InfoValue: David Dean
+InfoKey: Producer
+InfoValue: PDF::API2
+InfoKey: Keywords
+InfoValue: NONE
+InfoKey: Subject
+InfoValue: NONE
+InfoKey: ModDate
+InfoValue: D:20080307000000+00'00'
+InfoKey: CreationDate
+InfoValue: D:20080307000000+00'00'
+NumberOfPages: 2
