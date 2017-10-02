@@ -1,0 +1,11 @@
+indooropilly: 3407 0009
+garden city: 3403 7745
+city: 3403 4166
+chermside: 3403 7200
+
+garden city, fran, already booked
+city, thea?, Sat 17 12:00-14:45 
+indooroopilly, jullian, already booked
+chermside, 
+
+graham from city library sent me a form to ddean@ieee.org
